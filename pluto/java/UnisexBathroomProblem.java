@@ -99,6 +99,6 @@ class UnisexBathroom {
 			current_group = -1;
 			users=0;
 		}
-		notify();
+		notifyAll();
 	}
 }
