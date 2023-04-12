@@ -38,5 +38,4 @@ public class Example {
         
         System.out.println("10,00 pushes and pops completed by 2 threads. Current top of stack " + st.pop());
 	}
-
 }
